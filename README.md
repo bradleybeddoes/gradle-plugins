@@ -4,9 +4,9 @@ This is a collection of handy Gradle plugins which where originally forked from 
 
 ## RSpec like test output
 
-You'll end up with something like this:
+You'll end up with something like this (very contrived) example:
 
-![example output](https://www.dropbox.com/s/al94m3z7bf33jgz/Screenshot%202014-08-07%2010.49.52.png)
+![example output](http://i.imgur.com/buZsqAE.png)
 
 ### How to use
 
