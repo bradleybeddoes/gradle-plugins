@@ -6,7 +6,7 @@ This is a collection of handy Gradle plugins which where originally forked from 
 
 You'll end up with something like this:
 
-![example output](https://www.dropbox.com/s/7arfxiq38nux99q/Screenshot%202014-08-07%2010.41.38.png)
+![example output](https://www.dropbox.com/s/al94m3z7bf33jgz/Screenshot%202014-08-07%2010.49.52.png)
 
 ### How to use
 
